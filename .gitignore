@@ -1,0 +1,100 @@
+# Python virtual environment
+myenv/
+venv/
+.env
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# JupyterLab settings
+.jupyter/
+.jupyter/lab/
+
+# Python specific files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.nfs*
+
+# IDE and editor files
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+
+# Sublime Text
+*.sublime-workspace
+
+# Data files
+*.csv
+*.tsv
+*.dat
+*.data
+*.db
+*.sqlite
+
+# Machine learning model files
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Jupyter Notebooks output files
+*.out
+*.checkpoint
+
+# Custom configuration files
+config.yaml
+settings.ini
